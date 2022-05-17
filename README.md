@@ -1,6 +1,6 @@
 # Xray-Script
 
-### Disclaimer: This is for my use only. I have no rights and the total rights belong to the developer.
+### Disclaimer: This repo is Just for my convenience. I have no rights and the total rights belong to the developer.
 
 Source URL: [Click Here](https://github.com/iamtrazy/bash-xray-script).
 
